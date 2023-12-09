@@ -1,0 +1,27 @@
+[
+    {  
+         "_id": "1",
+        "img":"https://i.ibb.co/B4MBPwP/feature-1.png",
+        "name":"Room Services"
+    },
+    {
+        "_id": "2",
+        "img":"https://i.ibb.co/VtbH1dx/feature-2.png",
+        "name":"Wi-Fi Internet"
+    },
+    {
+        "_id": "3",
+        "img":"https://i.ibb.co/0rNkkxz/feature-3.png",
+        "name":"Smart Key"
+    },
+    {
+        "_id": "4",
+        "img":"https://i.ibb.co/yhpLG7r/feature-4.png",
+        "name":"Breakfast"
+    },
+    {
+        "_id": "5",
+        "img":"https://i.ibb.co/PMCFyrs/feature-5.png",
+        "name":"Swimming Pool"
+    }
+]
