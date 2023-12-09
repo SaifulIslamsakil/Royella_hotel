@@ -1,5 +1,5 @@
 # Royella_Hottel 
-[live link]([URL](https://dist-pi-ten.vercel.app/))
+[Link Text](https://dist-pi-ten.vercel.app/)
 
 
 ## Project Details
